@@ -23,7 +23,7 @@ import com.liferay.portal.kernel.util.Accessor;
 /**
  * The extended model interface for the demo service. Represents a row in the &quot;demo&quot; database table, with each column mapped to a property of this class.
  *
- * @author Brian Wing Shun Chan
+ * @author Rohit Parmar
  * @see demoModel
  * @see demoService.model.impl.demoImpl
  * @see demoService.model.impl.demoModelImpl
