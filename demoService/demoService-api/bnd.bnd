@@ -1,0 +1,9 @@
+Bundle-Name: demoService-api
+Bundle-SymbolicName: demoService.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	demoService.exception,\
+	demoService.model,\
+	demoService.service,\
+	demoService.service.persistence
+-includeresource: META-INF/service.xml=../demoService-service/service.xml

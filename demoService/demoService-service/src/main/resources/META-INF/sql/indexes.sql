@@ -1,0 +1,1 @@
+create index IX_1C2982B on demo (demoName[$COLUMN_LENGTH:75$]);
