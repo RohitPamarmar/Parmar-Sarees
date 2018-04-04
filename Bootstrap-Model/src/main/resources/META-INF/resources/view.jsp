@@ -61,6 +61,8 @@ img {
 <!--  -->
 <!--Css for image  hover  -->
 <!--  -->
+
+
 <%
 	boolean openModal = false;
 	List<Product> productList = ProductLocalServiceUtil.getProducts(0,
@@ -102,7 +104,7 @@ img {
      
      
      <span class="glyphicon glyphicon-shopping-cart"></span> WishList<span style="color:red;font-weight: 31px;"><b><%=wishlistItemCount %></b></span>  
-     </a>     s
+     </a>    
     </div> 
 <%
  	for (int count = 0; count < productList.size(); count++) {
