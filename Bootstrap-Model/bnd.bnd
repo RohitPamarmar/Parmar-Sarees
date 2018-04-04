@@ -1,0 +1,4 @@
+Bundle-Name: Bootstrap-Model
+Bundle-SymbolicName: Bootstrap.Model
+Bundle-Version: 1.0.0
+Export-Package: Bootstrap.Model.constants
